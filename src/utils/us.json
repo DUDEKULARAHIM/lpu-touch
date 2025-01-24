@@ -1,0 +1,194 @@
+{
+  "mourya": {
+    "personal_info": {
+      "id": 1,
+      "reg":"12202255",
+      "name": "G Mourya Kumar",
+      "father": "G Prabhakar Naidu",
+      "mother": "G Revathi",
+      "address": "2-250-E-4-3, Reddys Colony, Madanapalle - 517325, Distt: Chittoor, Andhra Pradesh, India",
+      "contact": "9652840861",
+      "email": "kmouryap@gmail.com",
+      "DOB": "13 Jul 2003",
+      "sex": "Male",
+      "program": "P132-L:B.Tech. (Computer Science and Engineering) [Lateral Entry] (2022)",
+      "school": "School of Computer Science and Engineering",
+      "admission": "2022-1",
+      "batch": "2022",
+      "section": "K21BG",
+      "hostel": "Boys Hostel-03-A202-Bed C (Std AC 4 Seater)"
+    },
+    "reporting_slip": {
+      "no": "22064259",
+      "hostel": "Boys Hostel-03",
+      "Seater": "Std AC 4 Seater",
+      "room": "A202-Bed C",
+      "hostel_due_paid": "165000",
+      "banalce": "0",
+      "mess_due_paid": "75000",
+      "mess_balance": "0",
+      "gym_due_paid": "4000",
+      "gym_balance": "0"
+    }
+  },
+  "shiva": {
+    "personal_info": {
+      "id": 2,
+      "reg":"12108042",
+      "name": "Tadigadapa Bala  Shiva",
+      "father": "Tadigadapa Venkat Rao",
+      "mother": "Tadigadapa Venkata Lakshmi",
+      "address": "42-602/2, M J Colony, Street No.5, Malkajgiri - 500040, Distt: Medchal, (Telangana) - India",
+      "contact": "8328487360",
+      "email": "shivatadigadapa@gmail.com",
+      "DOB": "01 Mar 2003",
+      "sex": "Male",
+      "program": "P132:B.Tech. (Computer Science and Engineering) (2021)",
+      "school": "School of Computer Science and Engineering",
+      "admission": "2022-1",
+      "batch": "2022",
+      "section": "K21CC",
+      "hostel": "Boys Hostel-03-A203-Bed B (Std AC 4 Seater)"
+    },
+    "reporting_slip": {
+      "no": "22064167",
+      "hostel": "Boys Hostel-03",
+      "Seater": "Std AC 4 Seater",
+      "room": "A203-Bed B",
+      "hostel_due_paid": "340000",
+      "banalce": "0",
+      "mess_due_paid": "75000",
+      "mess_balance": "0",
+      "gym_due_paid": "10500",
+      "gym_balance": "0"
+    }
+  },
+  "adithya": {
+    "personal_info": {
+      "id": 3,
+      "reg": "12107691",
+      "name": "Kancharla Sai Adithya",
+      "father": "K Srinivas Rao",
+      "mother": "K Sujatha",
+      "address": "H No. 4-105/1/G2, Sai Srijai Appartments, Nagaram, Rampally X Road, Nagaram, K.V. Rangareddy",
+      "contact": "8309289333",
+      "email": "nivask6111@gmail.com",
+      "DOB": "09 Sep 2004",
+      "sex": "Male",
+      "program": "P132:B.Tech. (Computer Science and Engineering) (2021)",
+      "school": "School of Computer Science and Engineering",
+      "admission": "2021-1",
+      "batch": "2021",
+      "section": "K21AH",
+      "hostel": "Boys Hostel-03-A202-Bed A (Std AC 4 Seater)"
+    },
+    "reporting_slip": {
+      "no": "22061591",
+      "hostel": "Boys Hostel-03",
+      "Seater": "Std AC 4 Seater",
+      "room": "A202-Bed A",
+      "hostel_due_paid": "335000",
+      "banalce": "0",
+      "mess_due_paid": "75000",
+      "mess_balance": "0",
+      "gym_due_paid": "8000",
+      "gym_balance": "0"
+    }
+  },
+  "chaitanya": {
+    "personal_info": {
+      "id": 1,
+      "reg":"12205080",
+      "name": "Kotla sai chaitanya",
+      "father": "Kotla Gopinath",
+      "mother": "Allanki Alivelu",
+      "address": "H.NO-12-254/1 , RAJSUKH NAGAR , NAGARAM",
+      "contact": "9381173971",
+      "email": "allankialivelu55@gmail.com",
+      "DOB": "10 jul 2004",
+      "sex": "Male",
+      "program": "P132-L:B.Tech. (Computer Science and Engineering) [Lateral Entry] (2022)",
+      "school": "School of Computer Science and Engineering",
+      "admission": "2022-1",
+      "batch": "2022",
+      "section": "K21DP",
+      "hostel": "Boys Hostel-03-A203-Bed C (Std AC 4 Seater)"
+    },
+    "reporting_slip": {
+      "no": "12205080",
+      "hostel": "Boys Hostel-03",
+      "Seater": "Std AC 4 Seater",
+      "room": "A203-Bed C",
+      "hostel_due_paid": "250000",
+      "banalce": "0",
+      "mess_due_paid": "75000",
+      "mess_balance": "0",
+      "gym_due_paid": "4000",
+      "gym_balance": "0"
+    }
+  },
+  "sahit":{
+    "personal_info": {
+      "id": 1,
+      "reg":"12201291",
+      "name": "Gutha Sahith Chowdary",
+      "father": "G Prabhakar Naidu",
+      "mother": "G Revathi",
+      "address": "2-250-E-4-3, Reddys Colony, Madanapalle - 517325, Distt: Chittoor, Andhra Pradesh, India",
+      "contact": "9652840861",
+      "email": "guthasahith.chowdary@lpu.in",
+      "DOB": "13 Jul 2003",
+      "sex": "Male",
+      "program": "P132-L:B.Tech. (Computer Science and Engineering) [Lateral Entry] (2022)",
+      "school": "School of Computer Science and Engineering",
+      "admission": "2022-1",
+      "batch": "2022",
+      "section": "K21BG",
+      "hostel": "Boys Hostel-03-A202-Bed C (Std AC 4 Seater)"
+    },
+    "reporting_slip":{
+      "no": "22064259",
+      "hostel":"Boys Hostel-03",
+      "Seater": "Std AC 4 Seater",
+      "room": "A202-Bed C",
+      "hostel_due_paid":"165000",
+      "banalce":"0",
+      "mess_due_paid":"35000",
+      "mess_balance":"0",
+      "gym_due_paid":"4000",
+      "gym_balance":"0"
+    }
+  },
+  "chandu":{
+    "personal_info": {
+      "id": 1,
+      "reg":"12109669",
+      "name": "Jayavarapu Chandra Ganesh",
+      "father": "Jayavarapu Pull Rao",
+      "mother": "Jayavarapu Vagdevi",
+      "address": "00, Main road, Opp. BusStand, Ankampalem, West Godavari- 534456, West Godavari - (Andhra Pradesh) - India",
+      "contact": "9390645082",
+      "email": "jchandraganesh@gmail.com",
+      "DOB": "18 Sep 2002",
+      "sex": "Male",
+      "program": "P132:B.Tech. (Computer Science and Engineering) (2021)",
+      "school": "School of Computer Science and Engineering",
+      "admission": "2021-1",
+      "batch": "2021",
+      "section": "K21AK",
+      "hostel": "Boys Hostel-03-A907-Bed D (Std Non-AC 4 Seater)"
+    },
+    "reporting_slip":{
+      "no": "22059684",
+      "hostel":"Boys Hostel-03",
+      "Seater": "Std Non AC 4 Seater",
+      "room": "A907-Bed D",
+      "hostel_due_paid":"247000",
+      "banalce":"0",
+      "mess_due_paid":"75000",
+      "mess_balance":"0",
+      "gym_due_paid":"4000",
+      "gym_balance":"0"
+    }
+  }
+}
