@@ -107,7 +107,7 @@ const MessPass = (props) => {
           <div className="border border-transparent  rounded-lg p-1 flex flex-col bg-gray-100/50 text-lg">
             <p className="text-black font-light">
               P132: B.Tech. (Computer Science and
-              <p>Engineering)(2024)</p>
+              <p>Engineering)(2022)</p>
             </p>
           </div>
         </div>
