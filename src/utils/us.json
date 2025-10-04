@@ -190,5 +190,37 @@
       "gym_due_paid":"4000",
       "gym_balance":"0"
     }
+  },
+  "rahim":{
+    "personal_info": {
+      "id": 1,
+      "reg":"12203852",
+      "name": "Dudekula Rahim",
+      "father": "D Khasim Peera",
+      "mother": "D Raziya",
+      "address": "10/57-a, Ramalakshmana street , Markapur - 523316, Distt: Prakasam, Andhra Pradesh, India",
+      "contact": "8328282563",
+      "email": "dudekula.rahim@lpu.in",
+      "DOB": "06 Aug 2005",
+      "sex": "Male",
+      "program": "P132:B.Tech. (Computer Science and Engineering) (2022)",
+      "school": "School of Computer Science and Engineering",
+      "admission": "2022-1",
+      "batch": "2022",
+      "section": "K22EF",
+      "hostel": "Boys Hostel-06-C109-Bed D (Std AC 5 Seater)"
+    },
+    "reporting_slip":{
+      "no": "22064259",
+      "hostel":"Boys Hostel-06",
+      "Seater": "Std Non-AC 5 Seater",
+      "room": "C109-Bed D",
+      "hostel_due_paid":"165000",
+      "banalce":"0",
+      "mess_due_paid":"38000",
+      "mess_balance":"0",
+      "gym_due_paid":"4000",
+      "gym_balance":"0"
+    }
   }
 }

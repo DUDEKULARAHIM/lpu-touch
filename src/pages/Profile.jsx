@@ -5,11 +5,12 @@ import mourya_img from "../assets/images/mourya_ums.jpeg";
 import adithya_img from "../assets/images/adithya_ums.jpeg";
 import chaitu_img from "../assets/images/chaitu_ums.jpeg";
 import sahit_img from "../assets/images/sahit_ums.jpeg";
+import rahim_img from "../assets/images/rahim_ums.jpeg";
 import usJson from "../utils/us.json";
 
 const Profile = () => {
 
-    const studentName = "sahit";
+    const studentName = "rahim";
     const studentInfo = usJson[studentName];
     const personalInfo = studentInfo.personal_info;
     const reportingInfo = studentInfo.reporting_slip;
@@ -24,7 +25,7 @@ const Profile = () => {
 
             <div className="m-2 bg-white shadow-md ">
                 <div className="flex flex-col items-center justify-center bg-gradient-to-r from-[#fc7b73] to-[#ffd97a] rounded-lg p-4">
-                    <img src={sahit_img} alt="shiva" className="w-40 h-40 rounded-lg" />
+                    <img src={rahim_img} alt="shiva" className="w-40 h-40 rounded-lg" />
                     <h1 className="font-light text-sm py-1">{personalInfo.name}</h1>
                     <p className="text-[11px] tracking-normalfont-[1px]">{personalInfo.program}</p>
                 </div>

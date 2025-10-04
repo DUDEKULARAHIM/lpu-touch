@@ -7,11 +7,12 @@ import adithya_img from "../assets/images/adithya_ums.jpeg";
 import usJson from "../utils/us.json";
 import chaitu_img from "../assets/images/chaitu_ums.jpeg";
 import sahit_img from "../assets/images/sahit_ums.jpeg";
+import rahim_img from "../assets/images/rahim_ums.jpeg";
 
 
 
 const ReportingSlip = () => {
-  const studentName = "sahit";
+  const studentName = "rahim";
   const studentInfo = usJson[studentName];
   const personalInfo = studentInfo.personal_info;
   const reportingInfo = studentInfo.reporting_slip;
@@ -32,7 +33,7 @@ const ReportingSlip = () => {
       <div className="flex items-center w-full px-8 flex-col justify-center">
         <h2 className="w-full font-semibold text-end">{}</h2>
 
-        <img src={sahit_img} alt="shiva" className=" w-[40%] flex items-center justify-center  p-2 pb-3 m-2" />
+        <img src={rahim_img} alt="shiva" className=" w-[40%] flex items-center justify-center  p-2 pb-3 m-2" />
 
         <hr className="w-[100%]" />
         <div className="flex flex-col justify-start w-full p-2">

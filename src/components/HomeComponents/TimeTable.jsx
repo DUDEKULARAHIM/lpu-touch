@@ -8,10 +8,10 @@ const TimeTable = () => {
     <div className=' bg-white  '>
       <h1 className='text-xl p-4'>Today's Timetable</h1>
       <div className='tables flex overflow-x-scroll   no-scrollbar ml-2 pb-5' style={{ maxHeight: '400px', overflowY: 'auto' }}>
-        <Classcardtimetable name='CSE322' room='34-502A' time='02-03 PM'/>
-        <Classcardtimetable name='PEA308' room='34-506' time='03-04 PM'/>
-        <Classcardtimetable name='PEV113' room='34-502A' time='04-05 PM'/>
-        <Classcardtimetable name='CSE423' room='34-502A' time='05-06 PM'/>
+        <Classcardtimetable name='INT253' room='34-502A' time='01-02 PM'/>
+        <Classcardtimetable name='INT293' room='34-502A' time='02-03 PM'/>
+        <Classcardtimetable name='PSY293' room='33-508' time='03-04 PM'/>
+        <Classcardtimetable name='PSY293' room='33-508' time='04-05 PM'/>
       </div>
     </div>
   )

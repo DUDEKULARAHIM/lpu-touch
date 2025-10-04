@@ -26,11 +26,11 @@ const Tiles = () => {
           <div className="flex  gap-8 items-center">
           <TileHolder img={announceM} name={"Announce"} span={"0"}/>
           <TileHolder img={fee} name={"Fee Statement"} />
-          <TileHolder img={attendence} name={"Attendance"} span={"88%"}/>
+          <TileHolder img={attendence} name={"Attendance"} span={"89%"}/>
           </div>
           <div className="flex gap-8 items-center">
           <TileHolder img={assignment} name={"Assignment"} span={"20"}/>
-          <TileHolder img={result} name={"Results"} span={"7.12"}/>
+          <TileHolder img={result} name={"Results"} span={"7.91"}/>
           <TileHolder img={exam} name={"Exams"} span={"9"}/>
           </div>
           <div className="flex gap-8 items-center">
