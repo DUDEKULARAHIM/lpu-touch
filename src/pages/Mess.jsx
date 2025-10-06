@@ -12,12 +12,13 @@ import adithya_img from "../assets/images/adithya_ums.jpeg";
 import chaitu_img from "../assets/images/chaitu_ums.jpeg";
 import sahit_img from "../assets/images/sahit_ums.jpeg";
 import usJson from "../utils/us.json";
+import rahim_img from "../assets/images/rahim_ums.jpeg";
 
 const Mess = (props) => {
   const { sheetOpen } = props;
   const { messType } = props;
 
-  const studentName = "sahit";
+  const studentName = "rahim";
   const studentInfo = usJson[studentName];
   const personalInfo = studentInfo.personal_info;
   const reportingInfo = studentInfo.reporting_slip;
@@ -43,7 +44,7 @@ const Mess = (props) => {
         </div> */}
         <div className="w-[98%] flex flex-col border rounded-sm shadow-lg">
           <div className="flex flex-col items-center justify-center bg-gradient-to-r from-[#fc7b73] to-[#ffd97a] rounded-lg p-4">
-            <img src={sahit_img} alt="shiva" className="w-32 h-32 rounded-lg" />
+            <img src={rahim_img} alt="shiva" className="w-32 h-32 rounded-lg" />
             <h1 className="font-bold text-sm py-1">{personalInfo.name}</h1>
             {/* <p className="text-[11px] tracking-normalfont-[1px]">{personalInfo.program}</p> */}
             <div className="w-full items-start flex flex-col justify-center">
