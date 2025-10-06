@@ -10,9 +10,10 @@ import chaitu_img from "../assets/images/chaitu_ums.jpeg";
 import usJson from "../utils/us.json";
 import { Link } from "react-router-dom";
 import { BiLeftArrowAlt } from 'react-icons/bi';
+import rahim_img from "../assets/images/rahim_ums.jpeg";
 
 const History = (props) => {
-  const studentName = "sahit";
+  const studentName = "rahim";
   const studentInfo = usJson[studentName];
   const personalInfo = studentInfo.personal_info;
   const reportingInfo = studentInfo.reporting_slip;
@@ -37,7 +38,7 @@ const History = (props) => {
             <div className="  w-32 flex  shadow-[0px_0px_18px_-10px_rgba(0,0,0,0.75)] shadow-black   border bg-black border-black justify-center  items-center h-32 rounded-full  ">
               <img
                 className="  rounded-full shadow-[0px_0px_18px_-10px_rgba(0,0,0,0.75)] shadow-black  w-[100%] h-[100%]"
-                src={sahit_img}
+                src={rahim_img}
                 alt=""
               />
             </div>
